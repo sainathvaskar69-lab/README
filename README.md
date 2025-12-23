@@ -1,4 +1,4 @@
-#Why I Use GitHub- <br> <br>
+# Why I Use GitHub- <br> <br>
 
 -----------
 
@@ -26,4 +26,4 @@ Practice & experimentation <br>
 
 ---------------
 
-⭐Thanks for visiting my GitHub profile! 
+# ⭐Thanks for visiting my GitHub profile! 

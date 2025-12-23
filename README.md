@@ -1,19 +1,17 @@
-Why I Use GitHub
+Why I Use GitHub <br> <br>
+📂 Store my learning scripts and practice files <br>
+🔁 Track my progress over time <br>
+🛠 Practice Git & version control <br>
+📈 Build a cybersecurity learning portfolio <br>
+💼 Prepare for future SOC / Security roles <br>
 
-📂 Store my learning scripts and practice files
-🔁 Track my progress over time
-🛠 Practice Git & version control
-📈 Build a cybersecurity learning portfolio
-💼 Prepare for future SOC / Security roles
+#Note - <br>
+Most projects are created while learning from: <br>
+YouTube <br>
+Documentation <br>
+Practice & experimentation <br>
+*Mistakes are part of learning — improvement is the goal* <br> <br>
 
-#Note - 
-Most projects are created while learning from:
-YouTube
-Documentation
-Practice & experimentation
-*Mistakes are part of learning — improvement is the goal*
-
-📫 Contact
-📧 Email: sainathvaskar69@gmail.com
-
-⭐Thanks for visiting my GitHub profile!
+📫 Contact <br>
+📧 Email: sainathvaskar69@gmail.com <br> <br>
+⭐Thanks for visiting my GitHub profile! 

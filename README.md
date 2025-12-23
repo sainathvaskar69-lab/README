@@ -1,6 +1,6 @@
 #Why I Use GitHub <br> <br>
 -----------
-📂 Store my learning scripts and practice files <br>
+📂 Store my learning scripts/codes and practice files <br>
 🔁 Track my progress over time <br>
 🛠 Practice Git & version control <br>
 📈 Build a cybersecurity learning portfolio <br>
